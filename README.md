@@ -5,4 +5,4 @@ Bu bot sayesinde txt formatında verdiğiniz kelime listesinden .com .edu .net u
 
 
 
-Not : Yakın zamanda Koda açıklama satırları ekliycem WhoisApi Kısmını geliştirmek istiyorum biraz saçma oldu ama çalışıyor xD :/
+Not : Yakın zamanda Koda açıklama satırları ekliycem WhoisApi Kısmını geliştirmek istiyorum biraz saçma oldu ama çalışıyor. Kullanmaya gelen arkadaşlar el atarsınız artık :D 
