@@ -1,7 +1,6 @@
 # LepricBot
  Çoklu alan adı sorgulama botu
-Bu bot sayesinde txt formatında verdiğiniz kelime listesinden .com .edu .net uzantılı domain adreslerinin satın alınabilitr olup olmadığını kontrol edebilirsiniz web sitemi ziyaret etmeyi unutmayın canlar :D https://www.lepric.com
-
+Bu bot sayesinde txt formatında verdiğiniz kelime listesinden .com .edu .net uzantılı domain adreslerinin satın alınabilitr olup olmadığını kontrol edebilirsiniz
 
 
 
